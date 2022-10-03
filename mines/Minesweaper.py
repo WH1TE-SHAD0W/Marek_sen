@@ -104,7 +104,7 @@ def towin(z, y):
         k += 1
     for i in range(12):
         m += x[i].count(9)
-    if
+
 n = 0
 
 
