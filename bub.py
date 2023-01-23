@@ -8,6 +8,6 @@ for i in range(len(n)):
     x.append(m)
     for i in range(len(n)):
         
-    l.pop()
+        l.pop()
     print(m,l,x)
 print(x) 
